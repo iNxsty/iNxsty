@@ -1,5 +1,5 @@
 ### Hello, my name is Pedro
-- Welcome to my GitHub profile. I'm a passionate developer always eager to learn and build new things. Here you'll find some of my projects, experiments, and contributions.
+- I'm a passionate developer always eager to learn and build new things. Here you'll find some of my projects, experiments, and contributions.
 - I am a Marketing Senior, where I am building some projects to help the company scale more
 ___
 ### About Me
