@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Pedro</h1>
+<h2 align="center">Hello, my name is Pedro</h2>
 <h3 align="center">- I'm a passionate developer always eager to learn and build new things. Here you'll find some of my projects, experiments, and contributions. I am a Marketing Senior, where I am building some projects to help the company scale more</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=inxsty&label=Profile%20views&color=0e75b6&style=flat" alt="inxsty" /> </p>
