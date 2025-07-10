@@ -1,7 +1,12 @@
 <div align="center">
   <h2 align="center">Hello, my name is Pedro</h2>
 
-  <h4 align="center">- I'm a passionate developer always eager to learn and build new things. Here you'll find some of my projects, experiments, and contributions. I am a Marketing Senior, where I am building some projects to help the company scale more</h4>
+<h4 align="center">
+  — I'm a passionate developer with a relentless drive to learn, create, and innovate.  
+  Here, you'll find a collection of my projects, experiments, and open-source contributions.  
+  Currently, I serve as Head of Marketing & Innovation, where I lead strategic initiatives and develop digital solutions to help the company scale with impact.
+</h4>
+
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=inxsty&label=Profile%20views&color=0e75b6&style=flat" alt="inxsty" /> </p>
 
