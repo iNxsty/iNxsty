@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hello, my name is Pedro</h2>
+  <h2 align="center">Hello, my name is Pedro Rhys</h2>
 
 <h4 align="center">
   — I'm a passionate developer with a relentless drive to learn, create, and innovate.  
