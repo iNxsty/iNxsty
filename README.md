@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">Hey Everyone! I'm Pedro Rhys.</h2>
+<h2 align="left">⛩️ Hey Everyone! I'm Pedro Rhys.</h2>
 
 ###
 
