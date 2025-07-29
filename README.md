@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iNxsty.iNxsty&left_text=Visitors" />
 </div>
 
-<h2 align="left">⛩️ Hey Everyone! I'm Pedro Rhys.</h2>
+<h2 align="left">⛩️ Hey Everyone! I'm Pedro Rhys</h2>
 
 <p align="left">
   I'm a passionate developer with a relentless drive to learn, create, and innovate.<br>
