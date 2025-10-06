@@ -4,10 +4,10 @@
 
 <div align="center">
   
-# ⛩️ Hey Everyone! I'm Pedro Rhys
+# ⛩️ Hey Everyone! I'm Rhys
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CEO+%26+Founder+at+RhysOtto+Co.;Passionate+Full-Stack+Developer;Innovation+%26+Digital+Solutions+Leader;Always+Learning+and+Creating&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full-Stack+Developer;Innovation+%26+Digital+Solutions+Leader;Always+Learning+and+Creating&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </p>
 
 ---
@@ -23,7 +23,6 @@ Here, you'll find a collection of my projects, experiments, and open-source cont
 <details>
 <summary>🌟 What I Do</summary>
 
-- 🏢 **CEO & Founder** at **RhysOtto Co.**
 - 💡 **Innovation Leader** - Driving digital transformation
 - 🔧 **Full-Stack Development** - From concept to deployment
 - 📈 **Strategic Planning** - Scaling businesses with technology
@@ -75,12 +74,12 @@ Here, you'll find a collection of my projects, experiments, and open-source cont
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rhysotto.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@rhysotto.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhys@rhysotto.com)
 
 ---
 
 <sub>💡 *"Innovation distinguishes between a leader and a follower."* - Building the future, one line of code at a time.</sub>
 
-⭐️ From [Pedro Rhys](https://github.com/iNxsty) | RhysOtto Co.
+⭐️ From [Rhys](https://github.com/iNxsty) 
 
 </div>
