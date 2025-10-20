@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate developer** with a relentless drive to learn, create, and innovate. As **CEO & Founder of RhysOtto Co.**, I lead strategic initiatives and develop cutting-edge digital solutions that help businesses scale with real impact.
+I'm a **passionate developer** with a relentless drive to learn, create, and innovate. I lead strategic initiatives and develop cutting-edge digital solutions that help businesses scale with real impact.
 
 Here, you'll find a collection of my projects, experiments, and open-source contributions that reflect my journey in technology and entrepreneurship.
 
